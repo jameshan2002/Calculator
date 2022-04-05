@@ -1,3 +1,3 @@
 # Calculator
  Simple Calculator
- - [Check Demo](https://jameshan2002.github.io/Calculator/)
+ - [Check Demo](https://notjameshan.github.io/Calculator/)
